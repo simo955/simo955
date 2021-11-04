@@ -41,7 +41,7 @@ I like to interpret graphs, build stuff from scratch, and dream big.
 <a href="https://gitlab.com/" title="GitLab"><img src="icons/gitlab.png" /></a>
 <a href="https://github.com/" title="GitHub"><img src="icons/github.png" /></a>
 
-**Check out my Gitlab stats:**   
+**Check out my Gitlab overview:**   
 <a href="" title="GitLabStats"><img src="images/gitLabStats.png" /></a>
 
 
