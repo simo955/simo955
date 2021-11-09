@@ -23,9 +23,18 @@ I like to interpret graphs, build stuff from scratch, and dream big.
   had on the content of other socials.
 
 ### 🤔 What do I do when I am not at my laptop?
-  - I do a lot of sport.
-  - I often read biographies. Last one -> Mike Tyson, True.
-  - Not that much, I'm always at my laptop 😄
+  - I love to surf 🏄.
+  - I often read biographies 📚. Last one -> [Undisputed Truth: My Autobiography](https://www.amazon.it/dp/B00DKEADI2/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1).
+  - Not that much, I'm always at my laptop 🤷‍♂️
+
+
+
+### 📫 Main Projects
+* [`Predicting cars speed`](https://github.com/simo955/Predicting_cars_speed) : built an ensemble of two gradient-boosted trees models, **Catboost** and **LightGBM**, to predict traffic average speeds in specific times and points of Italian roads.
+* [`Trading deamon/bot`](https://github.com/simo955/traiding_deamon) : (🚨 in progress🚨)
+* [`Recommender Systems Challenge`](https://github.com/simo955/RecSys_2018) : built a **Hybrid Recommender** System combining both content-based filtering and collaborative filtering techniques using python.
+
+
 
 **Currently working with:**   
 <a href="https://nodejs.org/" title="Node"><img src="icons/node.png" /></a>
