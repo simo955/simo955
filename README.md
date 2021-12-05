@@ -1,6 +1,6 @@
 ### Ciao, nice to meet you 👋
 
-I am Simone, a Computer Scientist and Engineer currently working @Mia-Platform.   
+I'm Simone, a Computer Scientist and Engineer currently working @Mia-Platform.   
 I like to interpret graphs, build stuff from scratch, and dream big.
 
 ### 🎓 Education
@@ -9,30 +9,29 @@ I like to interpret graphs, build stuff from scratch, and dream big.
 
 ### 👨🏽‍💻 Working Experience
 * **Mia-Platform** | Software Engineer, May 2020 - present
-  * ETL: Designed and implemented pipelines to ingest data into a data lake with Apache Kafka.
-  * REST APIs: Developed a Home Insurance portal based on RESTful APIs. Many of them involved complex MongoDB
-  aggregations.
-  * Microservices: Extended Mia-Platform’s product with the implementation of different microservices crafted from
-  customer needs and later generalized.
+  * Designed and implemented Apache Kafka pipelines to ingest data into a data lake.
+  * Developed an Home Insurance portal based on RESTful APIs. Many APIs rely on complex MongoDB aggregations designed to be extremely performing.
+  * Extended Mia-Platform's Paas with the implementation of different microservices started on customer needs and later generalized.
 
-* **Boston University** | Research Assistant at SecLab BU, January-March 2020
-  * Crawling and Preprocessing: Collected and preprocessed more than 1M posts coming from different Social Media.
-  * Data mining: Performed temporal and content analysis to assess the dynamics related to the dissemination of news and
-  the text content of posts containing a news URL.
-  * Influence Analysis: Applied the Hawkes Process statistical model to compute the influence that posts on a platform
-  had on the content of other socials.
+* **Boston University SecLab** | Research Assistant, January-March 2020
+  * Collected and preprocessed more than 1M posts coming from different Social Media(Facebook, Twitter, Reddit).
+  * Performed temporal and content analysis on posts containing a news URL to study the dissemination of news on Social Media.
+  * Exploited *Hawkes Process* statistical model to assess the influence that posts on a platform had on the content of other platforms.
 
 ### 🤔 What do I do when I am not at my laptop?
   - I love to surf 🏄.
-  - I often read biographies 📚. Last one -> [Undisputed Truth: My Autobiography](https://www.amazon.it/dp/B00DKEADI2/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1).
-  - Not that much, I'm always at my laptop 🤷‍♂️
+  - I often read biographies 📚. Last one -> [Will](https://www.amazon.it/Smith-W-Will/dp/1529124158).
+  - I'm always in for a good cup of espresso ☕.
 
 
 
 ### 📫 Main Projects
 * [`Predicting cars speed`](https://github.com/simo955/Predicting_cars_speed) : built an ensemble of two gradient-boosted trees models, **Catboost** and **LightGBM**, to predict traffic average speeds in specific times and points of Italian roads.
-* [`Trading deamon/bot`](https://github.com/simo955/traiding_deamon) : (🚨 in progress🚨)
-* [`Recommender Systems Challenge`](https://github.com/simo955/RecSys_2018) : built a **Hybrid Recommender** System combining both content-based filtering and collaborative filtering techniques using python.
+* [`Trading deamon/bot`](https://github.com/simo955/traiding_deamon) : (🚨 in progress🚨)     Independently developed a python telegram bot that given a stock symbol keeps fetching in the background the price of the wanted stock. When it registers a suddenly increasing (or decreasing) with respect of the avg of the past *n* prices, the bot notifies the user. The bot is currently public: @trading\_deamon\_bot
+* [`Recommender Systems Challenge`](https://github.com/simo955/RecSys_2018) : This competition aggregated the results of 6 different submissions on *Kaggle* over a time span of 6 months.
+The goal was to produce a recommendation of 10 tracks for each of the 10k given playlists. 
+Independently built a **Hybrid Recommender System** combining both content-based filtering and collaborative filtering techniques using python. *Final position:* 12th over 80 teams (for 5 months in the top 5 reaching highest possible evaluation).
+	
 
 
 
