@@ -1,22 +1,22 @@
 ### Ciao, nice to meet you 👋
 
-I'm Simone, a Computer Scientist and Engineer currently working @Mia-Platform.   
+I'm Simone, a Computer Scientist and Engineer currently working as Machine Learning Engineer [@Generali Italia](https://www.generali.it).   
 I like to interpret graphs, build stuff from scratch, and dream big.
 
 ### 🎓 Education
-* M.Sc. in Computer Science and Engineering at Politecnico di Milano 108/110 with focus in **Machine Learning**, Data Science, **Software Engineering**.
-* B.Sc. in Computer Science at Università di Genova 105/110 with focus on **Software Engineering** and theoretical computer science.
+* Master of Science in Computer Science & Engineering at Politecnico di Milano focusing in **Machine Learning**, Data Science, **Software Engineering**. Final Grade 108/110.
+* Bachelor of Science in Computer Science at Università di Genova focusing on **Software Engineering** and theoretical computer science. Final Grade 105/110.
 
 ### 👨🏽‍💻 Working Experience
 * **Mia-Platform** | Software Engineer, May 2020 - present
-  * Designed and implemented Apache Kafka pipelines to ingest data into a data lake.
-  * Developed an Home Insurance portal based on RESTful APIs. Many APIs rely on complex MongoDB aggregations designed to be extremely performing.
-  * Extended Mia-Platform's Paas with the implementation of different microservices started on customer needs and later generalized.
+  * Developed and administered 100+ Apache Kafka pipelines to enhance data ingestion into a Data Lake.
+  * Reduced Data Lake aggregation time by 50% by redesigning and implementing new MongoDB aggregation pipelines projected for exceptional performance.
+  * Implemented 30+ micro-services, using mostly JavaScript, based on general and specific client requirements to expand Mia-Platform marketplace (PaaS).
 
 * **Boston University SecLab** | Research Assistant, January-March 2020
-  * Collected and preprocessed more than 1M posts coming from different Social Media(Facebook, Twitter, Reddit).
-  * Performed temporal and content analysis on posts containing a news URL to study the dissemination of news on Social Media.
-  * Exploited *Hawkes Process* statistical model to assess the influence that posts on a platform had on the content of other platforms.
+  * Collected and conducted preliminary processing of over 1M social media posts from Twitter, Reddit, and Facebook.
+  * Assessed news dissemination on 3 social media platforms by executing content and temporal analysis on posts embodied with a newscast URL.
+  * Evaluated the influence of content posted on specific platforms on the content present on 2 other platforms by utilizing *Hawkes Process* statistical model.
 
 ### 🤔 What do I do when I am not at my laptop?
   - I love to surf 🏄.
@@ -32,7 +32,6 @@ I like to interpret graphs, build stuff from scratch, and dream big.
 The goal was to produce a recommendation of 10 tracks for each of the 10k given playlists. 
 Independently built a **Hybrid Recommender System** combining both content-based filtering and collaborative filtering techniques using python. *Final position:* 12th over 80 teams (for 5 months in the top 5 reaching highest possible evaluation).
 	
-
 
 
 **Currently working with:**   
