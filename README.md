@@ -8,7 +8,7 @@ I like to interpret graphs, build stuff from scratch, and dream big.
 * Bachelor of Science in Computer Science at Università di Genova focusing on **Software Engineering** and theoretical computer science. Final Grade 105/110.
 
 ### 👨🏽‍💻 Working Experience
-* **Generali Italia** | Machine Learning Engineer, January 2022 - present
+* **Generali Italia** | Machine Learning Software Engineer, January 2022 - present
 
 * **Mia-Platform** | Software Engineer, May 2020 - December 2021
   * Developed and administered 100+ Apache Kafka pipelines to enhance data ingestion into a Data Lake.
@@ -22,7 +22,7 @@ I like to interpret graphs, build stuff from scratch, and dream big.
 
 ### 🤔 What do I do when I am not at my laptop?
   - I love to surf 🏄.
-  - I often read biographies 📚. Last one -> [Will](https://www.amazon.it/Smith-W-Will/dp/1529124158).
+  - I often read biographies 📚. Last one -> [Greenlights Raucous stories and outlaw wisdom from the Academy Award-winning actor](https://www.amazon.it/Greenlights-Raucous-stories-Academy-Award-winning/dp/1472280830).
   - I'm always in for a good cup of espresso ☕.
 
 
