@@ -31,7 +31,7 @@ Mia-Platform is a product based company which provides a console to manage the e
 
 ### 🤔 What do I do when I'm not at my laptop?
   - I love surfing 🏄.
-  - I often read biographies 📚. Last one -> [Undisputed Truth: My Autobiography](https://www.amazon.com/Undisputed-Truth-Mike-Tyson/dp/0142181218).
+  - I often read biographies 📚. Spare -> [Spare: Prince Harry](https://www.amazon.it/Spare-English-Sussex-Prince-Harry-ebook/dp/B0BJV8XM2W).
   - I'm always in for a good cup of espresso ☕.
 
 
