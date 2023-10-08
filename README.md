@@ -1,7 +1,7 @@
 ### Ciao, nice to meet you 👋
 
 I'm Simone, a Computer Engineer currently working as Machine Learning Engineer [@Generali Italia](https://www.generali.it).   
-I enjoy building things from scratch, learning new stuff, and dreaming big.
+I enjoy facing complex problems, building things from scratch, and learning new stuff.
 
 ### 🎓 Education
 * Master of Science in Computer Science and Engineering from Politecnico di Milano, with a focus on **Machine Learning**, Data Science, **Software Engineering**. Final Grade 108/110.
@@ -10,24 +10,29 @@ I enjoy building things from scratch, learning new stuff, and dreaming big.
 ### 👨🏽‍💻 Working Experience
 * **Generali Italia** | Machine Learning Software Engineer, January 2022 - present
 Working in the Advanced Analytics team to build AI solutions and products for internal/external customers.
-  * Implemented a high-performance, scalable pipeline on GCP using computer vision models to estimate car damage. Result
-  achieved creating a microservices architecture (Docker), based on a Python stack (Flask and FastAPI), deployed on GKE.
-  * Created solutions for serving ML model predictions to business users through APIs, serverless processes (Cloud Functions), or
-  batch processes.
-  * Implemented CI/CD solutions using Jenkins, SonarQube, and GCP services, and utilized infrastructure-as-code (IaC) solutions
-  with Terraform to manage infrastructure and monitoring on GCP.
+  * Led a ML engineering group of 4 personnel to build a MLOps framework to standardize the process of training and deploying
+    models to production, evaluate the current state-of-the-art solution, the various limitations, and oversee all aspects of full-stack development.
+  * Coordinated with a cross-functional team of 6+ engineers to design and develop a B2C event-based microservices architecture
+    by leveraging computer vision models to estimate car damage.
+  * As part of the platform team, consistently identified innovative solutions and enhancements to improve internal frameworks
+    utilized by a workforce of over 80 engineers.
 
 * **Mia-Platform** | Software Engineer, May 2020 - December 2021
 Mia-Platform is a product based company which provides a console to manage the entire DevOps Stream and master end-to-end enterprise digital platforms based on APIs, microservices and Fast Data.
-  * Designed and implemented 30+ containerized (Docker) microservices (Node.js), often operating through APIs. Fostering a measurability and monitoring culture.
-  * Developed and administered 50+ Apache Kafka streams to enhance data ingestion into a Data Lake.
-  * Optimized data aggregation time by 25% through the redesign and implementation of high-performing MongoDB aggregation
-  pipelines.
+  * Designed and implemented 30+ microservices architectures, utilizing Docker and Kubernetes, fully integrated in Mia-Platform
+    PaaS. Frequently operating through RESTful APIs and event-driven design choices as Kafka streams, enhancing system
+    responsiveness.
+  * Optimized data ingestion processes into a centralized Data Lake (MongoDB) leveraging 50+ Apache Kafka streams. This
+    initiative significantly improved the platform's ability to handle and process large volumes of data in real-time.
+  * Achieved a 30% improvement in raw data aggregation time by redesigning and implementing highly performant MongoDB
+  aggregation pipelines. These optimizations significantly reduced the quantity of errors and latency.
+  * Implemented comprehensive monitoring and logging solutions, such as Prometheus and Grafana, to proactively identify
+  performance bottlenecks and troubleshoot issues, resulting in reduction in incident response times
 
 * **Boston University SecLab** | Research Assistant, January-March 2020
-  * Collected and processed over 1M social media posts from Twitter, Reddit, and Facebook.
-  * Analyzed the problem of news dissemination by performing sentiment and temporal analysis on posts containing URLs.
-  * Evaluated the impact of specific accounts on the dissemination of content between platforms using a Hawkes Process statistical model structure implemented in Python.
+  * Collected and processed 1M+ social media posts from Twitter, Reddit, and Facebook ranging in a time span of 2 years.
+  * Performed sentiment and temporal analysis on URLs to assess the problem of news dissemination by.
+  * Evaluated the dissemination of malicious content between platforms using a Hawkes Process statistical model structure       implemented in Python.
 
 ### 🤔 What do I do when I'm not at my laptop?
   - I love surfing 🏄.
