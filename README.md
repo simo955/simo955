@@ -1,51 +1,82 @@
-### Ciao, nice to meet you 👋
+### Ciao, I’m Simone 👋
 
-I'm Simone, a Computer Engineer currently working as Machine Learning Engineer [@Generali Italia](https://www.generali.it).   
-I enjoy facing complex problems, building things from scratch, and learning new stuff.
+I'm a Senior AI Engineer currently at **Klarna**, building production-grade AI systems and scalable backend architectures.
 
-### 🎓 Education
-* Master of Science in Computer Science and Engineering from Politecnico di Milano, with a focus on **Machine Learning**, Data Science, **Software Engineering**. Final Grade 108/110.
-* Bachelor of Science in Computer Science from Università di Genova, with a focus on **Software Engineering** and theoretical computer science. Final Grade 105/110.
+Based in **Milan, Italy**. I enjoy solving hard problems, building things from scratch, and drinking way too much espresso.
 
-### 👨🏽‍💻 Working Experience
-* **Generali Italia** | Machine Learning Software Engineer, January 2022 - present
-Working in the Advanced Analytics team to build AI solutions and products for internal/external customers.
-  * Led a ML engineering group of 4 personnel to build a MLOps framework to standardize the process of training and deploying
-    models to production, evaluate the current state-of-the-art solution, the various limitations, and oversee all aspects of full-stack development.
-  * Coordinated with a cross-functional team of 6+ engineers to design and develop a B2C event-based microservices architecture
-    by leveraging computer vision models to estimate car damage.
-  * As part of the platform team, consistently identified innovative solutions and enhancements to improve internal frameworks
-    utilized by a workforce of over 80 engineers.
+<p>
+  <a href="https://linkedin.com/in/simone-patuelli">
+    <img alt="LinkedIn" src="icons/linkedin.png" width="26" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/simo955">
+    <img alt="GitHub" src="icons/github.png" width="26" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:simone.patuelli@icloud.com">
+    <img alt="Email" src="icons/vscode.png" width="26" />
+  </a>
+</p>
 
-* **Mia-Platform** | Software Engineer, May 2020 - December 2021
-Mia-Platform is a product based company which provides a console to manage the entire DevOps Stream and master end-to-end enterprise digital platforms based on APIs, microservices and Fast Data.
-  * Designed and implemented 30+ microservices architectures, utilizing Docker and Kubernetes, fully integrated in Mia-Platform
-    PaaS. Frequently operating through RESTful APIs and event-driven design choices as Kafka streams, enhancing system
-    responsiveness.
-  * Optimized data ingestion processes into a centralized Data Lake (MongoDB) leveraging 50+ Apache Kafka streams. This
-    initiative significantly improved the platform's ability to handle and process large volumes of data in real-time.
-  * Achieved a 30% improvement in raw data aggregation time by redesigning and implementing highly performant MongoDB
-  aggregation pipelines. These optimizations significantly reduced the quantity of errors and latency.
-  * Implemented comprehensive monitoring and logging solutions, such as Prometheus and Grafana, to proactively identify
-  performance bottlenecks and troubleshoot issues, resulting in reduction in incident response times
+### ⚡ What I’m up to
+- **Making AI useful**: I build agents that can reason, call tools, and actually finish tasks without hallucinating (too much).
+- **RAG but smarter**: Moving beyond simple vector search to **GraphRAG**—because context matters.
+- **System plumbing**: I love the gritty parts of distributed systems—Kafka streams, async queues, and making microservices play nice together.
 
-* **Boston University SecLab** | Research Assistant, January-March 2020
-  * Collected and processed 1M+ social media posts from Twitter, Reddit, and Facebook ranging in a time span of 2 years.
-  * Performed sentiment and temporal analysis on URLs to assess the problem of news dissemination by.
-  * Evaluated the dissemination of malicious content between platforms using a Hawkes Process statistical model structure       implemented in Python.
+### 🚀 Some cool things I've built
+- **Klarna**: Productionized agentic systems that power real-time user features. Also built a graph-backed RAG platform that **10+ teams** are now using.
+- **Generali**: Turned a manual car damage claim process into a fully automated microservices pipeline, cutting processing time from **days to hours**.
+- **Mia-Platform**: Optimized a massive data ingestion pipeline with **50+ Kafka streams**, killing latency issues and handling peak loads without breaking a sweat.
 
-### 🤔 What do I do when I'm not at my laptop?
-  - I love surfing 🏄.
-  - I often read biographies 📚. Spare -> [Spare: Prince Harry](https://www.amazon.it/Spare-English-Sussex-Prince-Harry-ebook/dp/B0BJV8XM2W).
-  - I'm always in for a good cup of espresso ☕.
+### Tech stack
+<p>
+  <img alt="Python" src="icons/python.png" width="34" />
+  <img alt="Node.js" src="icons/node.png" width="34" />
+  <img alt="JavaScript" src="icons/javascript.png" width="34" />
+  <img alt="Docker" src="icons/docker.png" width="34" />
+  <img alt="Kubernetes" src="icons/kubernetes.png" width="34" />
+  <img alt="GitLab" src="icons/gitlab.png" width="34" />
+  <img alt="MongoDB" src="icons/mongodb.png" width="34" />
+  <img alt="MySQL" src="icons/mysql.png" width="34" />
+</p>
 
+> Notes: I also work with Java (services/platform integrations), Neo4j (graph DB), and LLM providers (OpenAI/Anthropic). For streaming I often use **Kafka** (no icon in this repo yet).
 
+### Experience (recent)
+- **Klarna** — Senior AI Engineer (Dec 2023 – Present)
+  - Built agentic systems that reason, call tools, and execute multi-step plans; moved from Python PoCs to scalable AWS services.
+  - Architected/productionized a graph-aware RAG platform backed by Neo4j, with adoption across 10+ teams.
+  - Worked across AI infrastructure and pipelines to improve performance and enable deeper user customization.
 
-### 📫 Main Projects
-* [`Predicting cars speed`](https://github.com/simo955/Predicting_cars_speed) : Built an ensemble of two gradient-boosted trees models (**Catboost** and **LightGBM**) to predict traffic average speeds at specific times and locations on Italian roads.
-* [`Trading deamon/bot`](https://github.com/simo955/traiding_deamon) : Independently developed a Python Telegram bot that continuously fetches the price of a specified stock and alerts the user if there is a sudden increase or decrease in relation to the average of the past n prices. The bot is currently available to the public at @trading\_deamon\_bot .
-* [`Recommender Systems Challenge`](https://github.com/simo955/RecSys_2018) : participated in a competition that aggregated the results of six different submissions on Kaggle over a period of six months. The goal was to recommend 10 tracks for each of 10,000 given playlists, and I built a **hybrid recommender** system combining both content-based filtering and collaborative filtering techniques using Python. I achieved a final position of 12th out of 80 teams, and was in the top 5 for five months, reaching the highest possible evaluation.
-	
+- **Generali Italia** — Machine Learning Engineer (Jan 2022 – Dec 2023)
+  - Designed and deployed a production-grade microservices platform for car damage estimation on GKE (Docker + pipelines + observability), cutting claim processing from **days to hours**.
+  - Coordinated with a cross-functional team of **6+ engineers** to design a **B2C event-based microservices** architecture leveraging computer vision models for damage estimation.
+  - Led an ML engineering group of **4** to build an MLOps framework standardizing training + deployment, model validation hooks, and production readiness.
+  - Built a reusable “Golden Path” scaffold (Cookiecutter) with CI/CD (e.g. Jenkins) and monitoring (e.g. Datadog), reducing onboarding time for new ML projects.
+  - As part of the platform team, shipped improvements to internal frameworks used by **80+ engineers**.
 
+- **Mia-Platform** — Software Engineer (May 2020 – Jan 2022)
+  - Shipped **30+ Node.js microservices** on the company PaaS; heavy use of REST APIs and event-driven patterns (Kafka), with Docker/Kubernetes deployments.
+  - Optimized ingestion into a centralized Data Lake (MongoDB) leveraging **50+ Kafka streams**, improving real-time throughput and stability under load.
+  - Achieved **~30%** improvement in aggregation time by redesigning MongoDB aggregation pipelines and implementing parallel processing (eliminating peak-load timeouts).
+  - Built a real-time decision pipeline consuming Kafka events, applying validation/merge logic, and forwarding validated changes to downstream services.
+  - Implemented monitoring/logging (Prometheus/Grafana) to catch performance bottlenecks earlier and reduce incident response time.
 
-### Thank you for reading!
+- **Boston University SecLab** — Research Assistant (Oct 2019 – Apr 2020)
+  - Built Python ETL pipelines to collect/process **1M+** social posts (Twitter/Reddit/Facebook) over a 2-year span for large-scale analysis.
+  - Recreated a Hawkes process model in Python to study temporal dynamics of malicious URL dissemination across platforms.
+
+### Education
+- **M.Sc. Computer Science & Engineering**, Politecnico di Milano
+- **B.Sc. Computer Science**, Università di Genova
+
+### Projects
+- **Predicting cars speed**: [`Predicting_cars_speed`](https://github.com/simo955/Predicting_cars_speed) — ensemble of CatBoost + LightGBM to predict traffic speeds on Italian roads.
+- **Trading bot**: [`traiding_deamon`](https://github.com/simo955/traiding_deamon) — Python Telegram bot that tracks a stock price and alerts on deviations vs recent average.
+- **Recommender Systems**: [`RecSys_2018`](https://github.com/simo955/RecSys_2018) — hybrid recommender (content-based + collaborative filtering); **12th/80** final position.
+
+### Outside work
+- Surfing, competitive tennis, biographies, and espresso.
+
+---
+If you want to chat about AI agents, distributed systems, or just argue about the best espresso in Milan, hit me up on [LinkedIn](https://linkedin.com/in/simone-patuelli) or shoot me an email at **simone.patuelli@icloud.com**.
